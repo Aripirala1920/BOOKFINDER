@@ -36,7 +36,7 @@ This app helps Alex by providing:
 ---
 
 ##  Live Demo
-https://codesandbox.io/p/github/Aripirala1920/BOOKFINDER/main?import=true
+https://codesandbox.io/p/github/Aripirala1920/BOOKFINDER/draft/modest-bell?embed=1&file=%2Fsrc%2Fstyles.css
 
 
 
